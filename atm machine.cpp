@@ -1,5 +1,5 @@
 #include <iostream>
-#include <limits> // For std::numeric_lim
+#include <limits> // For std::numeri
 
 using namespace std;
 
