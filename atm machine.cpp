@@ -11,7 +11,7 @@ int main()
 
     do {
         // Display menu
-        cout << "\n\t*********MENU***********";
+        cout << "\n\t*********MENU*********";
         cout << "\n\t*                                *";
         cout << "\n\t*      1. Check Balance          *";
         cout << "\n\t*      2. Deposit                *";
