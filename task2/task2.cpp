@@ -11,7 +11,7 @@ private:
     double balance;
 
 public:
-    //
+    
     Account(int accNum, string name, double bal = 0.0) : accountNumber(accNum), ownerName(name), balance(bal) {}
 
     // Getters
