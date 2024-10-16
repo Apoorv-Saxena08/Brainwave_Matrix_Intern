@@ -20,7 +20,7 @@ int main()
         cout << "\n\t*      5. Exit                   *";
         cout << "\n\t*                                *";
         cout << "\n\t**********************************";
-        cout << "\n\t Please Choose an Option: ";
+        cout << "\n\t Please Chooe an Option: ";
 
         // Input validation for option
         while (!(cin >> option) || option < 1 || option > 5) {
