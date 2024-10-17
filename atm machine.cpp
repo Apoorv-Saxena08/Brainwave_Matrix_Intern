@@ -13,7 +13,7 @@ int main()
         // Display menu
         cout << "\n\t**MENU**";
         cout << "\n\t*                                *";
-        cout << "\n\t*      1. Check Balance          *";
+        cout << "\n\t*      1. Check  Balance          *";
         cout << "\n\t*      2. Deposit                *";
         cout << "\n\t*      3. Withdraw               *";
         cout << "\n\t*      4. Transfer               *";
